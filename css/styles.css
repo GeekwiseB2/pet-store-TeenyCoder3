@@ -23,3 +23,12 @@
   background-color: #edf1f4;
   padding: 10px;
 }
+
+a:hover {
+  color: orange;
+}
+
+.footer {
+  background-color: black
+  color: white
+}
